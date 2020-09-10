@@ -1,0 +1,28 @@
+Funciones:
+- Crear objeto: crear estructura de datos
+- Añadir un elemento 
+- Sacar el primer elemento: obtener el primer elemento y eliminarlo de la estructura
+- Consultar el primer elemento: obtener el primer elemento
+- Consultar todos los elementos en el orden correspondiente
+
+-COLA-
+FIFO
+
+-PILA-
+LIFO
+
+-COLAS ORDENADAS-
+Ordenadas por prioridades
+
+-ÁRBOLES-
+No sacar elemento con hijos
+getChild(elem)
+getParent(elem)
+
+
+
+Objeto a introducir en las estructuras: 
+-string (valor)
+-int (número que representa la prioridad)
+
+
